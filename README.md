@@ -59,7 +59,7 @@ cp .env.example .env
 # Edit .env and set BITQUERY_OAUTH_TOKEN=your_token
 ```
 
-Get a free OAuth token at [bitquery.io](https://bitquery.io).
+Get an OAuth token generated at [bitquery IDE](https://ide.bitquery.io/).
 
 ### 3. Run
 
