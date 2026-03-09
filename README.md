@@ -1,4 +1,4 @@
-# mule-detection-onchain
+# Crypto Mule Detection System
 
 On-chain money mule detection for the **TRON network**, powered by [Bitquery](https://bitquery.io). Detects **Fan-Out** and **Fan-In** transfer patterns across a multi-hop wallet graph.
 
